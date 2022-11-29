@@ -5,7 +5,7 @@ Projeto feito durante o curso de responsividade da Alura
 | -------------  | --- |
 | :sparkles: Nome        | **AluraBooks**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | https://numero-secreto-pink.vercel.app/
+| :rocket: URL         | https://brunobahy.github.io/AluraBooks/
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-responsividade-mobile-first
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
